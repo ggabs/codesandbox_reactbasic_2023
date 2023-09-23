@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/codesandbox_reactbasic_2023/static/css/main.e6c13ad2.css",
-    "main.js": "/codesandbox_reactbasic_2023/static/js/main.e1d0cfbc.js",
-    "static/js/787.7819df90.chunk.js": "/codesandbox_reactbasic_2023/static/js/787.7819df90.chunk.js",
+    "main.js": "/codesandbox_reactbasic_2023/static/js/main.6b3db5f8.js",
     "index.html": "/codesandbox_reactbasic_2023/index.html",
     "main.e6c13ad2.css.map": "/codesandbox_reactbasic_2023/static/css/main.e6c13ad2.css.map",
-    "main.e1d0cfbc.js.map": "/codesandbox_reactbasic_2023/static/js/main.e1d0cfbc.js.map",
-    "787.7819df90.chunk.js.map": "/codesandbox_reactbasic_2023/static/js/787.7819df90.chunk.js.map"
+    "main.6b3db5f8.js.map": "/codesandbox_reactbasic_2023/static/js/main.6b3db5f8.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e1d0cfbc.js"
+    "static/js/main.6b3db5f8.js"
   ]
 }
